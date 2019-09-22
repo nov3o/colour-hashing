@@ -1,0 +1,19 @@
+body {
+    margin: 0; 
+}
+
+#main-block > div { 
+    height: 50px; 
+    width: 50px; 
+    border-radius: 50%; 
+    text-align: center; 
+    font-size: 40px; 
+    display: inline-block; 
+    font-family: Roboto; 
+    line-height: 50px; 
+    margin: 5px 0 0 5px;				
+}
+		
+#main-block > div > span {
+    display: none;
+}
